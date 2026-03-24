@@ -7,11 +7,7 @@ This repository is structured for the open `skills` installer ecosystem and cont
 ## Install
 
 ```bash
-# List skills in this repository
-npx skills add itamaker/stitch-skills --list
-
-# Install the skill
-npx skills add itamaker/stitch-skills --skill stitch
+npx skills add itamaker/stitch-skills
 ```
 
 ## Repository Layout
