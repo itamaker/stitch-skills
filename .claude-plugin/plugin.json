@@ -1,0 +1,5 @@
+{
+  "name": "stitch-skills",
+  "description": "Google Stitch workflows with an SDK-backed runner",
+  "version": "1.0.0"
+}
